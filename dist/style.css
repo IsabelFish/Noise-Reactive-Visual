@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  background: black;
+}
+
+canvas {
+  z-index: -1;
+  position: absolute; 
+}
+
+h1 {
+  color: white; 
+  size: 1000px;
+  z-index: 1;
+  position: relative; 
+  top: 50%;
+  text-align: center;
+}
